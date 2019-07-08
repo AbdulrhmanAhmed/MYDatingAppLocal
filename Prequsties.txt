@@ -1,0 +1,8 @@
+
+------------------------Extinsions-------------------
+
+C# (omni sharp)
+c3 Extionsions 
+Nuget Package Manger
+
+ 
