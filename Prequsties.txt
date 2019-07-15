@@ -5,4 +5,16 @@ C# (omni sharp)
 c3 Extionsions 
 Nuget Package Manger
 
- 
+  Angular v6 Snippet Jhon papa
+  Angulat Files Alexander Ivan
+  Angular Language Service  Angular
+  Angular2 switcher  infinty1207
+  auto rename tag
+
+  bracket pair colorize 
+
+  debugger for chrome
+
+  	Matrial Icon Theme
+	path intellence
+     Tslint 
